@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\repo2023\\clasePlatzi\\PlatziPreworkBlockchain\\contracts\\Counter.sol": {
+      "lastModificationDate": 1678920208418,
+      "contentHash": "8a37b461a49599e589c395c25d1f70b6",
+      "sourceName": "contracts/Counter.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.8 <0.9.0"
+      ],
+      "artifacts": [
+        "Counter"
+      ]
+    }
+  }
+}
